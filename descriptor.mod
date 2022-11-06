@@ -5,3 +5,4 @@ tags={
 }
 name="Nova Flat Map Font"
 supported_version="1.7.2"
+picture="thumbnail.png"
